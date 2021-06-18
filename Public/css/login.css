@@ -1,0 +1,35 @@
+.container {
+  background-image: url('../images/bg-login.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  width: 100%;
+  height: 600px;
+}
+
+.login-frame {
+  padding-top: 150px;
+  /* background-color: black; */
+}
+.container h2 {
+  background-color: rgba(255, 255, 255, 0.473);
+  width: 400px;
+}
+.login-frame form {
+  background-color: rgba(255, 255, 255, 0.363);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 500px;
+}
+.login-frame img {
+  width: 80px;
+  margin-bottom: 30px;
+}
+.label {
+  width: 100%;
+  position: fixed;
+}
+.label img {
+  width: 300px;
+}

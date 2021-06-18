@@ -1,0 +1,27 @@
+.folder_diskusi {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.diskusi {
+  width: 800px;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding-right: 10px;
+}
+
+.diskusi img {
+  width: 50px;
+  height: 50px;
+}
+.tambah_posting {
+  background-color: rgb(45, 120, 155);
+  padding: 20px;
+}
